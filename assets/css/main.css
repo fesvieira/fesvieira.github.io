@@ -3783,3 +3783,12 @@ input, select, textarea {
 			}
 
 		}
+
+/* Others */
+
+.projectImage {
+	size: 4rem;
+	border-radius: 50%;
+	width: 12rem;
+	margin-bottom: 1.8rem;
+}
