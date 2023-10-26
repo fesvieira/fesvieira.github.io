@@ -23,7 +23,30 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
+
+video.styled {
+	width: 10rem;
+	border-radius: 0.8rem;
+}
+
+img.styled {
+	width: 10rem;
+	border-radius: 0.8rem;
+}
+img.leftMargin {
+	margin-left: 1rem;
+}
+
+span.leftSpaced {
+	margin-left: 2rem;
+}
+
+div.styled {
+	text-align: center;
+	padding-bottom: 1rem;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
