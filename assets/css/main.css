@@ -3996,6 +3996,7 @@ body.is-preload #header.alt .logo {
 }
 
 .resume.bullet {
+	text-align: left;
 	font-size: 10;
 }
 
