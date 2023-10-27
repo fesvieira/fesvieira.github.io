@@ -3969,39 +3969,34 @@ body.is-preload #header.alt .logo {
 
 /* Resume */
 .resume {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12;
 	margin: 0;
 	padding: 0;
+	text-align: left;
 }
 
 .resume.title {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16;
 	font-weight: 800;
-	text-align: center;
 }
 
 .resume.subtitle {
-	font-family: Arial, Helvetica, sans-serif;
 	font-weight: 800;
 	font-style: italic;
-	text-align: center;
 }
 
 .resume.titleone {
-	font-family: Arial, Helvetica, sans-serif;
 	font-size: 12;
 	font-weight: 800;
-}
-
-.resume.align-center {
-	text-align: center;
 }
 
 .resume.role {
 	font-size: 10;
 	font-style: italic;
+}
+
+.resume.bullet {
+	font-size: 10;
 }
 
 .resume.role.date {
