@@ -31,10 +31,21 @@ video.styled {
 	border-radius: 0.8rem;
 }
 
+video.styledIOS {
+	width: 10rem;
+	border-radius: 0.8rem;
+}
+
 img.styled {
 	width: 10rem;
 	border-radius: 0.8rem;
 }
+
+img.styledIOS {
+	width: 10rem;
+	border-radius: 1.3rem;
+}
+
 img.leftMargin {
 	margin-left: 1rem;
 }
